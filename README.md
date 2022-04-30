@@ -1,6 +1,11 @@
-## 👋 Olá! Eu sou o Rodrigo Matsumoto, seja bem vindo ao meu perfil no Github! 👋
-
+## 👋 Olá! Eu sou o Rodrigo Matsumoto, seja bem vindo ao meu perfil Github! 👋
 <br>
+
+### Sobre mim 
+<div>
+ <p>📚Cursando Ciências da Computação na Universidade Anhembi Morumbi</p>
+ <p>🏠De São Paulo</p>
+</div><br>
 
 ### 🌱 Estudando 🌱
  
