@@ -1,13 +1,13 @@
-## 👋 Olá! Eu sou o Rodrigo Matsumoto, seja bem vindo ao meu perfil Github! 👋
+## 👋 Olá! Eu sou o Rodrigo Matsumoto, seja bem vindo ao meu perfil Github!
 <br>
 
 ### Sobre mim 
 <div>
  <p>📚Cursando Ciências da Computação na Universidade Anhembi Morumbi</p>
- <p>🏠De São Paulo</p>
+ <p></p>
 </div><br>
 
-### 🌱 Estudando 🌱
+### 👨🏻‍💻 Estudando 
  
 <div style="display: inline_block">
   <a href="https://github.com/RodrigoMatsumoto">
@@ -16,7 +16,7 @@
                                                                                                                       
 
                                                                                                                       
-### 💻 Tecnologias e Ferramentas 💻
+### 💻 Tecnologias e Ferramentas 
 <div>
   <a href="https://github.com/RodrigoMatsumoto">
   <img align="center" alt="java" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
@@ -29,7 +29,7 @@
   <img align="center" alt="github" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
 </div><br>
                                                                                                                       
-### Contatos:
+### 📫 Contatos:
 <div>
   <a href = "mailto:rodrigo.matsumoto87@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
