@@ -1,4 +1,4 @@
-## 👋 Olá! Eu sou o Rodrigo Matsumoto, seja bem vindo ao meu perfil Github!
+## Olá! Seja bem vindo ao meu perfil Github!
 <br>
 
 ### Sobre mim 
